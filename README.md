@@ -6,7 +6,7 @@ Using Python and Jupyter Notebooks to analyse, clean up and plot data and pose q
 
 Within this repository, the following are included:
   
-  Jupyter Notebook file
-  Analysis Presentation (.PPT)
-  Both DataFrames used in the analysis
-  README.md
+. Jupyter Notebook file
+. Analysis Presentation (.PPT)
+. Both DataFrames used in the analysis
+. README.md
